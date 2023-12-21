@@ -32,3 +32,4 @@ I have followed the CRISP data collection framework to collect and clean the dat
    3. More coupons are accepted during lunch hours and evening times irrespective of kind of coupons.
    4. There is not much correltation between income and coupons acceptance.
    5. Weather does have impact on coupons acceptance. People tend to accept more coupons when the weather is sunny.
+   6. If the duration of coupon is more it is more likely to be accepted.
