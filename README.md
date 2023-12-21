@@ -25,7 +25,7 @@ I have followed the CRISP data collection framework to collect and clean the dat
    
 3. Then used 1-hot encoding to convert the categorical data to numeric data.
     ![](images/clean_data.png)
-4. After cleaning the data, I have used the following pandas and plotly library to do my data analysis and plotting the outcome as meanful chats.
+4. After cleaning the data, I have used the  pandas and plotly library to do my data analysis and plotting the outcome as meanful chats.
 5. Following are my observations
    1. The more the person visits a bar, the more likely He/She will accept coupons. 
    2. Across any age group , we see the rate of acceptance is more when the number of bar visits in between 1 and 3.
