@@ -28,8 +28,8 @@ I have followed the CRISP data collection framework to collect and clean the dat
 4. After cleaning the data, I have used the  pandas and plotly library to do my data analysis and plotting the outcome as meanful chats.
 5. Following are my observations
    1. The more the person visits a bar, the more likely He/She will accept coupons. 
-   2. Across any age group , we see the rate of acceptance is more when the number of bar visits in between 1 and 3.
+   2. Across any age group, we see the rate of acceptance is more when the number of bar visits in between 1 and 3.
    3. More coupons are accepted during lunch hours and evening times irrespective of kind of coupons.
-   4. There is not much correltation between income and coupons acceptance.
-   5. Weather does have impact on coupons acceptance. People tend to accept more coupons when the weather is sunny.
-   6. If the duration of coupon is more it is more likely to be accepted.
+   4. There is little correlation between income and coupon acceptance.
+   5. Weather does have an impact on coupon acceptance. People tend to spend more and accept more coupons when the weather is sunny.
+   6. If the duration of the coupon is longer, it is more likely to be accepted.
